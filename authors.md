@@ -1,5 +1,6 @@
 ### Author list
 
+
 * John Kirkham
 * Brianna Laugher
 * Madicken Munk
@@ -10,3 +11,6 @@
 * Nelle Varoquaux
 * Jared Raynes
 * Tavish Eenjes
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
